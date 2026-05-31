@@ -126,7 +126,7 @@ Built as a portfolio project to demonstrate **business intelligence, data analys
 
 If you found this useful, please ⭐ **star the repo** and feel free to connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/chirag-modi-3001rookie)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chirag-modi-3001rookie)
 [![GitHub](https://img.shields.io/badge/GitHub-Rookie010101-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rookie010101)
 [![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chiragmodi2027@gmail.com)
 
